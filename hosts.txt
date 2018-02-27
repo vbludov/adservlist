@@ -1,6 +1,7 @@
 
-main.exdynsrv.com
 exdynsrv.com
-traffic.adxprtz.com
+main.exdynsrv.com
 adxprtz.com
+traffic.adxprtz.com
 a-ads.com
+click.a-ads.com
