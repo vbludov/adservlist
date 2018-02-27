@@ -1,11 +1,12 @@
 
-exdynsrv.com
-main.exdynsrv.com
-adxprtz.com
-traffic.adxprtz.com
-a-ads.com
-ad.a-ads.com
-acceptable.a-ads.com
-click.a-ads.com
-fast.gannett.demdex.net
-test.asdfjhaskdjhfkjakaaaaafs.com
+# [General]
+127.0.0.1 exdynsrv.com
+127.0.0.1 main.exdynsrv.com
+127.0.0.1 adxprtz.com
+127.0.0.1 traffic.adxprtz.com
+127.0.0.1 a-ads.com
+127.0.0.1 ad.a-ads.com
+127.0.0.1 acceptable.a-ads.com
+127.0.0.1 click.a-ads.com
+127.0.0.1 fast.gannett.demdex.net
+127.0.0.1 test.asdfjhaskdjhfkjakaaaaafs.com
