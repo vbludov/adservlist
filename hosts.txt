@@ -4,6 +4,7 @@ main.exdynsrv.com
 adxprtz.com
 traffic.adxprtz.com
 a-ads.com
+ad.a-ads.com
 acceptable.a-ads.com
 click.a-ads.com
 fast.gannett.demdex.net
