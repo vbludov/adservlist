@@ -9,4 +9,6 @@ ad.a-ads.com
 acceptable.a-ads.com
 click.a-ads.com
 fast.gannett.demdex.net
+2mdn.net
+s0.2mdn.net
 test.asdfjhaskdjhfkjakaaaaafs.com
