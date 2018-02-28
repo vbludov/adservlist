@@ -10,3 +10,4 @@ acceptable.a-ads.com
 click.a-ads.com
 fast.gannett.demdex.net
 s0.2mdn.net
+paid.outbrain.com
