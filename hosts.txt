@@ -11,7 +11,7 @@ click.a-ads.com
 fast.gannett.demdex.net
 s0.2mdn.net
 
-# [Outbrain Junk]
+# [Outbrain type Junk]
 paid.outbrain.com
 adsnative.com
 bevo.adsnative.com
