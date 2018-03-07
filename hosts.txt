@@ -11,6 +11,16 @@ pixel-eu.bilinmedia.net
 www.bilinmedia.net
 ads.bilinmedia.net
 imp-west.bilinmedia.net
+imp-east.bilinmedia.net
+pm-east.bilinmedia.net
+ox-west.bilinmedia.net
+ox-east.bilinmedia.net
+ads-west.bilinmedia.net
+bid-west.bilinmedia.net
+bid-east.bilinmedia.net
+ads-east.bilinmedia.net
+ns.bilinmedia.net
+bid.bilinmedia.net
 
 exdynsrv.com
 main.exdynsrv.com
