@@ -1,5 +1,16 @@
 
 # [General]
+cms.bilinmedia.net
+ads-ap.bilinmedia.net
+pixel-ap.bilinmedia.net
+imp-ap.bilinmedia.net
+ads-eu.bilinmedia.net
+imp-eu.bilinmedia.net
+pixel-eu.bilinmedia.net
+www.bilinmedia.net
+ads.bilinmedia.net
+imp-west.bilinmedia.net
+
 exdynsrv.com
 main.exdynsrv.com
 adxprtz.com
