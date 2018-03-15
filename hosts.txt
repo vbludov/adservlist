@@ -1,23 +1,10 @@
 
 # [General]
-t.tellapart.com
-tellapart.com
 
+tellapart.com
 ssum-sec.casalemedia.com
 casalemedia.com
 s0.wp.com
-
-d1uj23e1jdb4iy.cloudfront.net
-d25euelys1w45c.cloudfront.net
-d2hwya619kdcoh.cloudfront.net
-d2j3k553y8jgoo.cloudfront.net
-d2wgmi9u9tqrnz.cloudfront.net
-d3bwwudd8f64kb.cloudfront.net
-d3e91guwl60r3m.cloudfront.net
-d3qdfnco3bamip.cloudfront.net
-dlyw9rl9phj2a.cloudfront.net
-dtmx68dylbhct.cloudfront.net
-d2x3bkdslnxkuj.cloudfront.net
 cloudfront.net
 
 zergnet.com
