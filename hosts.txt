@@ -104,7 +104,9 @@ fast.gannett.demdex.net
 s0.2mdn.net
 
 # [Outbrain type Junk]
+widgets.outbrain.com
 paid.outbrain.com
+outbrain.com
 adsnative.com
 bevo.adsnative.com
 api.adsnative.com
