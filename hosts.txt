@@ -37,6 +37,13 @@ casalemedia.com
 x.bidswitch.net
 bidswitch.net
 
+ib.adnxs.com
+rb.adnxs.com
+secure.adnxs.com
+match.adsrvr.org
+sync.adaptv.advertising.com
+adserver-us.adtech.advertising.com
+
 
 cms.bilinmedia.net
 ads-ap.bilinmedia.net
