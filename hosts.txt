@@ -1,5 +1,8 @@
 
 # [General]
+t.tellapart.com
+tellapart.com
+
 zergnet.com
 img.zergnet.com
 img1.zergnet.com
