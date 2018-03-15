@@ -3,6 +3,10 @@
 t.tellapart.com
 tellapart.com
 
+ssum-sec.casalemedia.com
+casalemedia.com
+s0.wp.com
+
 d1uj23e1jdb4iy.cloudfront.net
 d25euelys1w45c.cloudfront.net
 d2hwya619kdcoh.cloudfront.net
