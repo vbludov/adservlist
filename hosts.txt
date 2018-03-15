@@ -1,5 +1,15 @@
 
 # [General]
+zergnet.com
+img.zergnet.com
+img1.zergnet.com
+img2.zergnet.com
+img3.zergnet.com
+img4.zergnet.com
+img5.zergnet.com
+static.zergnet.com
+www.zergnet.com
+
 cdn.newsapi.com.au
 video.unrulymedia.com
 unrulymedia.com
