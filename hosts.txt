@@ -109,6 +109,7 @@ s0.2mdn.net
 widgets.outbrain.com
 paid.outbrain.com
 outbrain.com
+taboola.com
 adsnative.com
 bevo.adsnative.com
 api.adsnative.com
