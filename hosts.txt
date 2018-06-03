@@ -109,6 +109,7 @@ s0.2mdn.net
 widgets.outbrain.com
 paid.outbrain.com
 outbrain.com
+www.outbrain.com
 bot.outbrain.com
 editorial.outbrain.com
 jira.outbrain.com
