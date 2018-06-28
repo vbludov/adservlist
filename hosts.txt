@@ -2,6 +2,7 @@
 # [General]
 sitescout.com
 www.sitescout.com
+pixel-a.sitescout.com
 spnccrzone.com
 c.spnccrzone.com
 udmserve.net
