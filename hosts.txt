@@ -1,5 +1,7 @@
 
 # [General]
+sitescout.com
+www.sitescout.com
 spnccrzone.com
 c.spnccrzone.com
 udmserve.net
