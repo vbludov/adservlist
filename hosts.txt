@@ -209,3 +209,6 @@ adserve.postrelease.com
 jadserve.postrelease.com
 prstats.postrelease.com
 www.postrelease.com
+
+acroipm.adobe.com
+genuine.adobe.com
